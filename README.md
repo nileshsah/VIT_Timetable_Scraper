@@ -1,3 +1,4 @@
+# VIT Timetable Scraper
 PHP script to scrape student timetable from Parent Login ( via cURL )
 
 # Usage
